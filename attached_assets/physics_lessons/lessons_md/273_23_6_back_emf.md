@@ -1,0 +1,21 @@
+# 23.6 Back Emf
+
+[Original URL](https://openstax.org/books/college-physics-2e/pages/23-6-back-emf)
+
+## 23.6 Back Emf
+
+### Learning Objectives
+
+By the end of this section, you will be able to:
+
+*   Explain what back emf is and how it is induced.
+
+It has been noted that motors and generators are very similar. Generators convert mechanical energy into electrical energy, whereas motors convert electrical energy into mechanical energy. Furthermore, motors and generators have the same construction. When the coil of a motor is turned, magnetic flux changes, and an emf (consistent with Faraday’s law of induction) is induced. The motor thus acts as a generator whenever its coil rotates. This will happen whether the shaft is turned by an external input, like a belt drive, or by the action of the motor itself. That is, when a motor is doing work and its shaft is turning, an emf is generated. Lenz’s law tells us the emf opposes any change, so that the input emf that powers the motor will be opposed by the motor’s self-generated emf, called the back emf of the motor. (See [Figure 23.24](23-6-back-emf#import-auto-id1169737991643).)
+
+![Figure shows an electric circuit. The circuit has a cell represented as driving e m f of voltage one hundred and twenty volt is connected in series with a variable e m f source with a range of voltage from zero to one hundred twenty volts and a resistance R. The other end of resistance R is connected to an open switch. The switch is connected back to the Driving e m f cell.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/11cd063a15736a098b091a5027f9ebe83f05f354)
+
+Figure 23.24 The coil of a DC motor is represented as a resistor in this schematic. The back emf is represented as a variable emf that opposes the one driving the motor. Back emf is zero when the motor is not turning, and it increases proportionally to the motor’s angular velocity.
+
+Back emf is the generator output of a motor, and so it is proportional to the motor’s angular velocity ωω. It is zero when the motor is first turned on, meaning that the coil receives the full driving voltage and the motor draws maximum current when it is on but not turning. As the motor turns faster and faster, the back emf grows, always opposing the driving emf, and reduces the voltage across the coil and the amount of current it draws. This effect is noticeable in a number of situations. When a vacuum cleaner, refrigerator, or washing machine is first turned on, lights in the same circuit dim briefly due to the I R I R drop produced in feeder lines by the large current drawn by the motor. When a motor first comes on, it draws more current than when it runs at its normal operating speed. When a mechanical load is placed on the motor, like an electric wheelchair going up a hill, the motor slows, the back emf drops, more current flows, and more work can be done. If the motor runs at too low a speed, the larger current can overheat it (via resistive power in the coil, P\=I2RP\=I2R), perhaps even burning it out. On the other hand, if there is no mechanical load on the motor, it will increase its angular velocity ωω until the back emf is nearly equal to the driving emf. Then the motor uses only enough energy to overcome friction.
+
+Consider, for example, the motor coils represented in [Figure 23.24](23-6-back-emf#import-auto-id1169737991643). The coils have a 0.400Ω0.400Ω equivalent resistance and are driven by a 48.0 V emf. Shortly after being turned on, they draw a current I\=V/R\=(48.0V)/(0.400Ω)\=120AI\=V/R\=(48.0V)/(0.400Ω)\=120A and, thus, dissipate P\=I2R\=5.76kWP\=I2R\=5.76kW of energy as heat transfer. Under normal operating conditions for this motor, suppose the back emf is 40.0 V. Then at operating speed, the total voltage across the coils is 8.0 V (48.0 V minus the 40.0 V back emf), and the current drawn is I\=V/R\=(8.0V)/(0.400Ω)\=20AI\=V/R\=(8.0V)/(0.400Ω)\=20A. Under normal load, then, the power dissipated is P\=IV\=(20A)/(8.0V)\=160WP\=IV\=(20A)/(8.0V)\=160W. The latter will not cause a problem for this motor, whereas the former 5.76 kW would burn out the coils if sustained.

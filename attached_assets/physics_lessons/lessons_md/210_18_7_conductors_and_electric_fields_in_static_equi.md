@@ -1,0 +1,93 @@
+# 18.7 Conductors and Electric Fields in Static Equilibrium
+
+[Original URL](https://openstax.org/books/college-physics-2e/pages/18-7-conductors-and-electric-fields-in-static-equilibrium)
+
+## 18.7 Conductors and Electric Fields in Static Equilibrium
+
+### Learning Objectives
+
+By the end of this section, you will be able to:
+
+*   List the three properties of a conductor in electrostatic equilibrium.
+*   Explain the effect of an electric field on free charges in a conductor.
+*   Explain why no electric field may exist inside a conductor.
+*   Describe the electric field surrounding Earth.
+*   Explain what happens to an electric field applied to an irregular conductor.
+*   Describe how a lightning rod works.
+*   Explain how a metal car may protect passengers inside from the dangerous electric fields caused by a downed line touching the car.
+
+Conductors contain free charges that move easily. When excess charge is placed on a conductor or the conductor is put into a static electric field, charges in the conductor quickly respond to reach a steady state called electrostatic equilibrium.
+
+[Figure 18.26](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id3230544) shows the effect of an electric field on free charges in a conductor. The free charges move until the field is perpendicular to the conductor’s surface. There can be no component of the field parallel to the surface in electrostatic equilibrium, since, if there were, it would produce further movement of charge. A positive free charge is shown, but free charges can be either positive or negative and are, in fact, negative in metals. The motion of a positive charge is equivalent to the motion of a negative charge in the opposite direction.
+
+![In part a, an electric field E exists at some angle with the horizontal applied on a conductor. One component of this field E parallel is along x axis represented by a vector arrow and other E perpendicular, is along y axis represented by a vector arrow. Charge inside the conductor moves along x axis so the force acting on it is F parallel, which is equal to q multiplied by E parallel. In part b, a charge is shown inside the conductor and electric field is represented by a vector arrow pointing upward starting from the surface of the conductor.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/2b541ee5930b94542ea8540feb3e762da381590e)
+
+Figure 18.26 When an electric field EE is applied to a conductor, free charges inside the conductor move until the field is perpendicular to the surface. (a) The electric field is a vector quantity, with both parallel and perpendicular components. The parallel component (E∥E∥) exerts a force (F∥F∥) on the free charge qq, which moves the charge until F∥\=0F∥\=0. (b) The resulting field is perpendicular to the surface. The free charge has been brought to the conductor’s surface, leaving electrostatic forces in equilibrium.
+
+A conductor placed in an electric field will be polarized. [Figure 18.27](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2453144) shows the result of placing a neutral conductor in an originally uniform electric field. The field becomes stronger near the conductor but entirely disappears inside it.
+
+![A spherical conductor is placed in the external electric field. The field lines are shown running from left to right. The field lines enter and leave the conductor at right angles. Negative charges accumulate on the left surface of the conductor and positive charges accumulate on the right surface of the conductor.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/569a9eaf5cdf6f61dd0e02a53774d999017a6992)
+
+Figure 18.27 This illustration shows a spherical conductor in static equilibrium with an originally uniform electric field. Free charges move within the conductor, polarizing it, until the electric field lines are perpendicular to the surface. The field lines end on excess negative charge on one section of the surface and begin again on excess positive charge on the opposite side. No electric field exists inside the conductor, since free charges in the conductor would continue moving in response to any field until it was neutralized.
+
+Excess charges placed on a spherical conductor repel and move until they are evenly distributed, as shown in [Figure 18.28](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2594136). Excess charge is forced to the surface until the field inside the conductor is zero. Outside the conductor, the field is exactly the same as if the conductor were replaced by a point charge at its center equal to the excess charge.
+
+![A positively charged sphere is shown and positive charges are distributed all over the surface. Electric field lines emanate from the sphere in the space shown by the vector arrow pointing outward.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/46a5869ea585ca5a92ebf2692aadaa45511dfdcf)
+
+Figure 18.28 The mutual repulsion of excess positive charges on a spherical conductor distributes them uniformly on its surface. The resulting electric field is perpendicular to the surface and zero inside. Outside the conductor, the field is identical to that of a point charge at the center equal to the excess charge.
+
+1.  The electric field is zero inside a conductor.
+2.  Just outside a conductor, the electric field lines are perpendicular to its surface, ending or beginning on charges on the surface.
+3.  Any excess charge resides entirely on the surface or surfaces of a conductor.
+
+The properties of a conductor are consistent with the situations already discussed and can be used to analyze any conductor in electrostatic equilibrium. This can lead to some interesting new insights, such as described below.
+
+How can a very uniform electric field be created? Consider a system of two metal plates with opposite charges on them, as shown in [Figure 18.29](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2594161). The properties of conductors in electrostatic equilibrium indicate that the electric field between the plates will be uniform in strength and direction. Except near the edges, the excess charges distribute themselves uniformly, producing field lines that are uniformly spaced (hence uniform in strength) and perpendicular to the surfaces (hence uniform in direction, since the plates are flat). The edge effects are less important when the plates are close together.
+
+![Two charged metal plates are shown. The lower plate has negative charge and the upper plate has positive charge. The electric field lines start from positive plate and enter the negative plate represented by arrows.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/a6e9099c00d9b582fb42bb7d3c52b53264ca1725)
+
+Figure 18.29 Two metal plates with equal, but opposite, excess charges. The field between them is uniform in strength and direction except near the edges. One use of such a field is to produce uniform acceleration of charges between the plates, such as in the electron gun of an old-fashioned CRT TV (one with a cathode ray tube instead of LCD screen).
+
+### Earth’s Electric Field
+
+A near uniform electric field of approximately 150 N/C, directed downward, surrounds Earth, with the magnitude increasing slightly as we get closer to the surface. What causes the electric field? At around 100 km above the surface of Earth we have a layer of charged particles, called the ionosphere. The ionosphere is responsible for a range of phenomena including the electric field surrounding Earth. In fair weather the ionosphere is positive and the Earth largely negative, maintaining the electric field ([Figure 18.30](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id3162895)(a)).
+
+In storm conditions clouds form and localized electric fields can be larger and reversed in direction ([Figure 18.30](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id3162895)(b)). The exact charge distributions depend on the local conditions, and variations of [Figure 18.30](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id3162895)(b) are possible.
+
+If the electric field is sufficiently large, the insulating properties of the surrounding material break down and it becomes conducting. For air this occurs at around 3×1063×106 N/C. Air ionizes ions and electrons recombine, and we get discharge in the form of lightning sparks and corona discharge.
+
+![In part a, a child is flying a kite with two men in an open field on a bright sunny day. In part b, lightning appears over a body of water in stormy weather.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/3f2c32b9b48d402db80d99571ee30d37f3dc806c)
+
+Figure 18.30 Earth’s electric field. (a) Fair weather field. Earth and the ionosphere (a layer of charged particles) are both conductors. They produce a uniform electric field of about 150 N/C. (credit: D. H. Parks) (b) Storm fields. In the presence of storm clouds, the local electric fields can be larger. At very high fields, the insulating properties of the air break down and lightning can occur. (credit: Jan-Joost Verhoef)
+
+### Electric Fields on Uneven Surfaces
+
+So far we have considered excess charges on a smooth, symmetrical conductor surface. What happens if a conductor has sharp corners or is pointed? Excess charges on a nonuniform conductor become concentrated at the sharpest points. Additionally, excess charge may move on or off the conductor at the sharpest points.
+
+To see how and why this happens, consider the charged conductor in [Figure 18.31](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2398984). The electrostatic repulsion of like charges is most effective in moving them apart on the flattest surface, and so they become least concentrated there. This is because the forces between identical pairs of charges at either end of the conductor are identical, but the components of the forces parallel to the surfaces are different. The component parallel to the surface is greatest on the flattest surface and, hence, more effective in moving the charge.
+
+The same effect is produced on a conductor by an externally applied electric field, as seen in [Figure 18.31](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2398984) (c). Since the field lines must be perpendicular to the surface, more of them are concentrated on the most curved parts.
+
+![In part a, a conductor is shown with the unsymmetrical shape. The identical pair of charges at opposite ends on the conductor have similar components of forces represented by arrows. In part b, the unsymmetrical object has positive charge on its surface. The electric field lines are shown emerging perpendicular from the surface of the conductor represented by vector arrow. In part c, the field lines in and around the conductor running from left to right is shown. The left surface of the conductor has negative charge and the right surface has positive charge. The field lines enter and leave the conductor at right angles.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/8b7c04966bad440162297537f08912158b572065)
+
+Figure 18.31 Excess charge on a nonuniform conductor becomes most concentrated at the location of greatest curvature. (a) The forces between identical pairs of charges at either end of the conductor are identical, but the components of the forces parallel to the surface are different. It is F∥F∥ that moves the charges apart once they have reached the surface. (b) F∥F∥ is smallest at the more pointed end, the charges are left closer together, producing the electric field shown. (c) An uncharged conductor in an originally uniform electric field is polarized, with the most concentrated charge at its most pointed end.
+
+### Applications of Conductors
+
+On a very sharply curved surface, such as shown in [Figure 18.32](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id2677542), the charges are so concentrated at the point that the resulting electric field can be great enough to remove them from the surface. This can be useful.
+
+Lightning rods work best when they are most pointed. The large charges created in storm clouds induce an opposite charge on a building that can result in a lightning bolt hitting the building. The induced charge is bled away continually by a lightning rod, preventing the more dramatic lightning strike.
+
+Of course, we sometimes wish to prevent the transfer of charge rather than to facilitate it. In that case, the conductor should be very smooth and have as large a radius of curvature as possible. (See [Figure 18.33](18-7-conductors-and-electric-fields-in-static-equilibrium#import-auto-id1993313).) Smooth surfaces are used on high-voltage transmission lines, for example, to avoid leakage of charge into the air.
+
+Another device that makes use of some of these principles is a Faraday cage. This is a metal shield that encloses a volume. All electrical charges will reside on the outside surface of this shield, and there will be no electrical field inside. A Faraday cage is used to prohibit stray electrical fields in the environment from interfering with sensitive measurements, such as the electrical signals inside a nerve cell.
+
+During electrical storms if you are driving a car, it is best to stay inside the car as its metal body acts as a Faraday cage with zero electrical field inside. If in the vicinity of a lightning strike, its effect is felt on the outside of the car and the inside is unaffected, provided you remain totally inside. This is also true if an active (“hot”) electrical wire was broken (in a storm or an accident) and fell on your car.
+
+![A cone shaped positively charged conductor is shown where most of the positive charges are accumulated at the tip. The field lines represented by arrows emerge at right angles from the surface of the conductor in outward direction. The density of field lines is greater at the tip of the cone than at other surfaces.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/49dc3853d86afc55e21fc9480a0f354de3902b55)
+
+Figure 18.32 A very pointed conductor has a large charge concentration at the point. The electric field is very strong at the point and can exert a force large enough to transfer charge on or off the conductor. Lightning rods are used to prevent the buildup of large excess charges on structures and, thus, are pointed.
+
+![In part a, a lightning rod is shown on the roof of a house. In part b, a person is touching the metal sphere of the Van De Graaff and his hair is standing up.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/ea7956aef7bd40a92f8b9d2458cd7d665a210934)
+
+Figure 18.33 (a) A lightning rod is pointed to facilitate the transfer of charge. (credit: Romaine, Wikimedia Commons) (b) This Van de Graaff generator has a smooth surface with a large radius of curvature to prevent the transfer of charge and allow a large voltage to be generated. The mutual repulsion of like charges is evident in the person’s hair while touching the metal sphere. (credit: Jon ‘ShakataGaNai’ Davis/Wikimedia Commons).

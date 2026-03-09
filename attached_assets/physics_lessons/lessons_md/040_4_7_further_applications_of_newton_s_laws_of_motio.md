@@ -1,0 +1,319 @@
+# 4.7 Further Applications of Newton’s Laws of Motion
+
+[Original URL](https://openstax.org/books/college-physics-2e/pages/4-7-further-applications-of-newtons-laws-of-motion)
+
+## 4.7 Further Applications of Newton’s Laws of Motion
+
+### Learning Objectives
+
+By the end of this section, you will be able to:
+
+*   Apply problem-solving techniques to solve for quantities in more complex systems of forces.
+*   Integrate concepts from kinematics to solve problems using Newton's laws of motion.
+
+There are many interesting applications of Newton’s laws of motion, a few more of which are presented in this section. These serve also to illustrate some further subtleties of physics and to help build problem-solving skills.
+
+#### Drag Force on a Barge
+
+Suppose two tugboats push on a barge at different angles, as shown in [Figure 4.21](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id1221020). The first tugboat exerts a force of 2.7×105 N2.7×105 N in the _x_\-direction, and the second tugboat exerts a force of 3.6×105 N3.6×105 N in the _y_\-direction.
+
+![(a) A view from above two tugboats pushing on a barge. One tugboat is pushing with the force F sub x equal to two point seven multiplied by ten to the power five newtons, shown by a vector arrow acting toward the right in the x direction. Another tugboat is pushing with a force F sub y equal to three point six multiplied by ten to the power five newtons acting upward in the positive y direction. Acceleration of the barge, a, is shown by a vector arrow directed fifty-three point one degree angle above the x axis. In the free-body diagram, F sub y is acting on a point upward, F sub x is acting toward the right, and F sub D is acting approximately southwest. (b) A right triangle is made by the vectors F sub x and F sub y. The base vector is shown by the force vector F sub x. and the perpendicular vector is shown by the force vector F sub y. The resultant is the hypotenuse of this triangle, making a fifty-three point one degree angle from the base, shown by the vector force F sub net pointing up the inclination. A vector F sub D points down the incline. ](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/386e6be3253a52c74a36a46b669c5152a59cbf37)
+
+Figure 4.21 (a) A view from above of two tugboats pushing on a barge. (b) The free-body diagram for the ship contains only forces acting in the plane of the water. It omits the two vertical forces—the weight of the barge and the buoyant force of the water supporting it cancel and are not shown. Since the applied forces are perpendicular, the _x_\- and _y_\-axes are in the same direction as FxFx and FyFy. The problem quickly becomes a one-dimensional problem along the direction of FappFapp, since friction is in the direction opposite to FappFapp.
+
+If the mass of the barge is 5.0×106 kg5.0×106 kg and its acceleration is observed to be 7.5×10−2 m/s27.5×10−2 m/s2 in the direction shown, what is the drag force of the water on the barge resisting the motion? (Note: drag force is a frictional force exerted by fluids, such as air or water. The drag force opposes the motion of the object.)
+
+#### Strategy
+
+The directions and magnitudes of acceleration and the applied forces are given in [Figure 4.21](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id1221020)**(a)**. We will define the total force of the tugboats on the barge as FappFapp so that:
+
+F app \= F x + F y F app \= F x + F y
+
+4.59
+
+Since the barge is flat bottomed, the drag of the water FDFD will be in the direction opposite to FappFapp, as shown in the free-body diagram in [Figure 4.21](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id1221020)(b). The system of interest here is the barge, since the forces on _it_ are given as well as its acceleration. Our strategy is to find the magnitude and direction of the net applied force FappFapp, and then apply Newton’s second law to solve for the drag force FDFD.
+
+#### Solution
+
+Since FxFx and FyFy are perpendicular, the magnitude and direction of FappFapp are easily found. First, the resultant magnitude is given by the Pythagorean theorem:
+
+F app \= F x 2 + F y 2 F app \= ( 2.7 × 10 5 N ) 2 + ( 3.6 × 10 5 N ) 2 \= 4.5 × 10 5 N. F app \= F x 2 + F y 2 F app \= ( 2.7 × 10 5 N ) 2 + ( 3.6 × 10 5 N ) 2 \= 4.5 × 10 5 N.
+
+4.60
+
+The angle is given by
+
+θ \= tan − 1 F y F x θ \= tan − 1 3.6 × 10 5 N 2.7 × 10 5 N \= 53º , θ \= tan − 1 F y F x θ \= tan − 1 3.6 × 10 5 N 2.7 × 10 5 N \= 53º ,
+
+4.61
+
+which we know, because of Newton’s first law, is the same direction as the acceleration. FDFD is in the opposite direction of FappFapp, since it acts to slow down the acceleration. Therefore, the net external force is in the same direction as FappFapp, but its magnitude is slightly less than FappFapp. The problem is now one-dimensional. From [Figure 4.21](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id1221020)**(b)**, we can see that
+
+Fnet\=Fapp−FD.Fnet\=Fapp−FD.
+
+4.62
+
+But Newton’s second law states that
+
+Fnet\=ma.Fnet\=ma.
+
+4.63
+
+Thus,
+
+Fapp−FD\=ma.Fapp−FD\=ma.
+
+4.64
+
+This can be solved for the magnitude of the drag force of the water FDFD in terms of known quantities:
+
+FD\=Fapp−ma.FD\=Fapp−ma.
+
+4.65
+
+Substituting known values gives
+
+FD\=(4.5×105 N)−(5.0×106 kg)(7.5×10–2 m/s2)\=7.5×104 N.FD\=(4.5×105 N)−(5.0×106 kg)(7.5×10–2 m/s2)\=7.5×104 N.
+
+4.66
+
+The direction of FDFD has already been determined to be in the direction opposite to FappFapp, or at an angle of 53º53º south of west.
+
+#### Discussion
+
+The numbers used in this example are reasonable for a moderately large barge. It is certainly difficult to obtain larger accelerations with tugboats, and small speeds are desirable to avoid running the barge into the docks. Drag is relatively small for a well-designed hull at low speeds, consistent with the answer to this example, where FDFD is less than 1/600th of the weight of the ship.
+
+In the earlier example of a tightrope walker we noted that the tensions in wires supporting a mass were equal only because the angles on either side were equal. Consider the following example, where the angles are not equal; slightly more trigonometry is involved.
+
+#### Different Tensions at Different Angles
+
+Consider the traffic light (mass 15.0 kg) suspended from two wires as shown in [Figure 4.22](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id3051538). Find the tension in each wire, neglecting the masses of the wires.
+
+![A sketch of a traffic light suspended from two wires supported by two poles is shown. (b) Some forces are shown in this system. Tension T sub one pulling the top of the left-hand pole is shown by the vector arrow along the left wire from the top of the pole, and an equal but opposite tension T sub one is shown by the arrow pointing up along the left-hand wire where it is attached to the light; the wire makes a thirty-degree angle with the horizontal. Tension T sub two is shown by a vector arrow pointing downward from the top of the right-hand pole along the right-hand wire, and an equal but opposite tension T sub two is shown by the arrow pointing up along the right-hand wire, which makes a forty-five degree angle with the horizontal. The traffic light is suspended at the lower end of the wires, and its weight W is shown by a vector arrow acting downward. (c) The traffic light is the system of interest. Tension T sub one starting from the traffic light is shown by an arrow along the wire making an angle of thirty degrees with the horizontal. Tension T sub two starting from the traffic light is shown by an arrow along the wire making an angle of forty-five degrees with the horizontal. The weight W is shown by a vector arrow pointing downward from the traffic light. A free-body diagram is shown with three forces acting on a point. Weight W acts downward; T sub one and T sub two act at an angle with the vertical. (d) Forces are shown with their components T sub one y and T sub two y pointing vertically upward. T sub one x points along the negative x direction, T sub two x points along the positive x direction, and weight W points vertically downward. (e) Vertical forces and horizontal forces are shown separately. Vertical forces T sub one y and T sub two y are shown by vector arrows acting along a vertical line pointing upward, and weight W is shown by a vector arrow acting downward. The net vertical force is zero, so T sub one y plus T sub two y is equal to W. On the other hand, T sub two x is shown by an arrow pointing toward the right, and T sub one x is shown by an arrow pointing toward the left. The net horizontal force is zero, so T sub one x is equal to T sub two x.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/bebf3d9c5cc60722f5f19df3df892fe345411da7)
+
+Figure 4.22 A traffic light is suspended from two wires. (b) Some of the forces involved. (c) Only forces acting on the system are shown here. The free-body diagram for the traffic light is also shown. (d) The forces projected onto vertical (_y_) and horizontal (_x_) axes. The horizontal components of the tensions must cancel, and the sum of the vertical components of the tensions must equal the weight of the traffic light. (e) The free-body diagram shows the vertical and horizontal forces acting on the traffic light.
+
+#### Strategy
+
+The system of interest is the traffic light, and its free-body diagram is shown in [Figure 4.22](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id3051538)(c). The three forces involved are not parallel, and so they must be projected onto a coordinate system. The most convenient coordinate system has one axis vertical and one horizontal, and the vector projections on it are shown in part (d) of the figure. There are two unknowns in this problem ( T 1 T 1 and T2T2), so two equations are needed to find them. These two equations come from applying Newton’s second law along the vertical and horizontal axes, noting that the net external force is zero along each axis because acceleration is zero.
+
+#### Solution
+
+First consider the horizontal or _x_\-axis:
+
+Fnet x\=T2x−T1x\=0.Fnet x\=T2x−T1x\=0.
+
+4.67
+
+Thus, as you might expect,
+
+T1x\=T2x.T1x\=T2x.
+
+4.68
+
+This gives us the following relationship between T1T1 and T2T2:
+
+T1cos(30º)\=T2cos(45º).T1cos(30º)\=T2cos(45º).
+
+4.69
+
+Thus,
+
+T2\=(1.225)T1.T2\=(1.225)T1.
+
+4.70
+
+Note that T1T1 and T2T2 are not equal in this case, because the angles on either side are not equal. It is reasonable that T2T2 ends up being greater than T1T1, because it is exerted more vertically than T1T1.
+
+Now consider the force components along the vertical or _y_\-axis:
+
+Fnet y\=T1y+T2y−w\=0.Fnet y\=T1y+T2y−w\=0.
+
+4.71
+
+This implies
+
+T1y+T2y\=w.T1y+T2y\=w.
+
+4.72
+
+Substituting the expressions for the vertical components gives
+
+T1sin(30º)+T2sin(45º)\=w.T1sin(30º)+T2sin(45º)\=w.
+
+4.73
+
+There are two unknowns in this equation, but substituting the expression for T2T2 in terms of T1T1 reduces this to one equation with one unknown:
+
+T1(0.500)+(1.225T1)(0.707)\=w\=mg,T1(0.500)+(1.225T1)(0.707)\=w\=mg,
+
+4.74
+
+which yields
+
+1.366T1\=(15.0 kg)(9.80 m/s2).1.366T1\=(15.0 kg)(9.80 m/s2).
+
+4.75
+
+Solving this last equation gives the magnitude of T1T1 to be
+
+T1\=108 N.T1\=108 N.
+
+4.76
+
+Finally, the magnitude of T2T2 is determined using the relationship between them, T2T2 = 1.225 T1T1, found above. Thus we obtain
+
+T 2 \= 132 N . T 2 \= 132 N .
+
+4.77
+
+#### Discussion
+
+Both tensions would be larger if both wires were more horizontal, and they will be equal if and only if the angles on either side are the same (as they were in the earlier example of a tightrope walker).
+
+The bathroom scale is an excellent example of a normal force acting on a body. It provides a quantitative reading of how much it must push upward to support the weight of an object. But can you predict what you would see on the dial of a bathroom scale if you stood on it during an elevator ride? Will you see a value greater than your weight when the elevator starts up? What about when the elevator moves upward at a constant speed: will the scale still read more than your weight at rest? Consider the following example.
+
+#### What Does the Bathroom Scale Read in an Elevator?
+
+[Figure 4.23](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id347645) shows a 75.0-kg man (weight of about 165 lb) standing on a bathroom scale in an elevator. Calculate the scale reading: (a) if the elevator accelerates upward at a rate of 1.20 m/s21.20 m/s2, and (b) if the elevator moves upward at a constant speed of 1 m/s.
+
+![A person is standing on a bathroom scale in an elevator. His weight w is shown by an arrow pointing downward. F sub s is the force of the scale on the person, shown by a vector starting from his feet pointing vertically upward. W sub s is the weight of the scale pointing vertically downward. W sub e is the weight of the elevator, shown by the broken arrow pointing vertically downward. F sub p is the force of the person on the scale, acting vertically downward. F sub t is the force of the scale on the floor of the elevator, pointing vertically downward, and N is the normal force of the floor on the scale, pointing upward. (b) The same person is shown on the scale in the elevator, but only a few forces are shown acting on the person, which is our system of interest. W is shown by an arrow acting downward, and F sub s is the force of the scale on the person, shown by a vector starting from his feet pointing vertically upward. The free-body diagram is also shown, with two forces acting on a point. F sub s acts vertically upward, and w acts vertically downward.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/cf2e019aa85e3875c7e4550084f78cd89149fa62)
+
+Figure 4.23 (a) The various forces acting when a person stands on a bathroom scale in an elevator. The arrows are approximately correct for when the elevator is accelerating upward—broken arrows represent forces too large to be drawn to scale. TT is the upward force on the elevator, wsws is the weight of the scale, wewe is the weight of the elevator, FsFs is the force of the scale on the person, FpFp is the force of the person on the scale, FtFt is the force of the scale on the floor of the elevator, and NN is the force of the floor upward on the scale. (b) The free-body diagram shows only the external forces acting on the designated system of interest—the person.
+
+#### Strategy
+
+If the scale is accurate, its reading will equal FpFp, the magnitude of the force the person exerts downward on it. [Figure 4.23](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id347645)(a) shows the numerous forces acting on the elevator, scale, and person. It makes this one-dimensional problem look much more formidable than if the person is chosen to be the system of interest and a free-body diagram is drawn as in [Figure 4.23](4-7-further-applications-of-newtons-laws-of-motion#import-auto-id347645)(b). Analysis of the free-body diagram using Newton’s laws can produce answers to both parts (a) and (b) of this example, as well as some other questions that might arise. The only forces acting on the person are his weight ww and the upward force of the scale FsFs. According to Newton’s third law FpFp and FsFs are equal in magnitude and opposite in direction, so that we need to find FsFs in order to find what the scale reads. We can do this, as usual, by applying Newton’s second law,
+
+Fnet\=ma.Fnet\=ma.
+
+4.78
+
+From the free-body diagram we see that Fnet\=Fs−wFnet\=Fs−w, so that
+
+Fs−w\=ma.Fs−w\=ma.
+
+4.79
+
+Solving for FsFs gives an equation with only one unknown:
+
+Fs\=ma+w,Fs\=ma+w,
+
+4.80
+
+or, because w\=mgw\=mg, simply
+
+Fs\=ma+mg.Fs\=ma+mg.
+
+4.81
+
+No assumptions were made about the acceleration, and so this solution should be valid for a variety of accelerations in addition to the ones in this exercise.
+
+#### Solution for (a)
+
+In this part of the problem, a\=1.20 m/s2a\=1.20 m/s2, so that
+
+Fs\=(75.0 kg)(1.20 m/s2)+(75.0 kg)(9.80 m/s2),Fs\=(75.0 kg)(1.20 m/s2)+(75.0 kg)(9.80 m/s2),
+
+4.82
+
+yielding
+
+Fs\=825 N.Fs\=825 N.
+
+4.83
+
+#### Discussion for (a)
+
+This is about 185 lb. What would the scale have read if he were stationary? Since his acceleration would be zero, the force of the scale would be equal to his weight:
+
+F net \= ma \= 0 \= F s − w F s \= w \= mg F s \= ( 75.0 kg ) ( 9. 80 m/s 2 ) F s \= 735 N. F net \= ma \= 0 \= F s − w F s \= w \= mg F s \= ( 75.0 kg ) ( 9. 80 m/s 2 ) F s \= 735 N.
+
+4.84
+
+So, the scale reading in the elevator is greater than his 735-N (165 lb) weight. This means that the scale is pushing up on the person with a force greater than his weight, as it must in order to accelerate him upward. Clearly, the greater the acceleration of the elevator, the greater the scale reading, consistent with what you feel in rapidly accelerating versus slowly accelerating elevators.
+
+#### Solution for (b)
+
+Now, what happens when the elevator reaches a constant upward velocity? Will the scale still read more than his weight? For any constant velocity—up, down, or stationary—acceleration is zero because a\=ΔvΔta\=ΔvΔt, and Δv\=0Δv\=0.
+
+Thus,
+
+Fs\=ma+mg\=0+mg.Fs\=ma+mg\=0+mg.
+
+4.85
+
+Now
+
+Fs\=(75.0 kg)(9.80 m/s2),Fs\=(75.0 kg)(9.80 m/s2),
+
+4.86
+
+which gives
+
+Fs\=735 N.Fs\=735 N.
+
+4.87
+
+#### Discussion for (b)
+
+The scale reading is 735 N, which equals the person’s weight. This will be the case whenever the elevator has a constant velocity—moving up, moving down, or stationary.
+
+The solution to the previous example also applies to an elevator accelerating downward, as mentioned. When an elevator accelerates downward, aa is negative, and the scale reading is _less_ than the weight of the person, until a constant downward velocity is reached, at which time the scale reading again becomes equal to the person’s weight. If the elevator is in free-fall and accelerating downward at gg, then the scale reading will be zero and the person will _appear_ to be weightless.
+
+### Integrating Concepts: Newton’s Laws of Motion and Kinematics
+
+Physics is most interesting and most powerful when applied to general situations that involve more than a narrow set of physical principles. Newton’s laws of motion can also be integrated with other concepts that have been discussed previously in this text to solve problems of motion. For example, forces produce accelerations, a topic of kinematics, and hence the relevance of earlier chapters. When approaching problems that involve various types of forces, acceleration, velocity, and/or position, use the following steps to approach the problem:
+
+**Problem-Solving Strategy**
+
+Step 1. _Identify which physical principles are involved_. Listing the givens and the quantities to be calculated will allow you to identify the principles involved.  
+Step 2. _Solve the problem using strategies outlined in the text_. If these are available for the specific topic, you should refer to them. You should also refer to the sections of the text that deal with a particular topic. The following worked example illustrates how these strategies are applied to an integrated concept problem.
+
+#### What Force Must a Soccer Player Exert to Reach Top Speed?
+
+A soccer player starts from rest and accelerates forward, reaching a velocity of 8.00 m/s in 2.50 s. (a) What was his average acceleration? (b) What average force did he exert backward on the ground to achieve this acceleration? The player’s mass is 70.0 kg, and air resistance is negligible.
+
+#### Strategy
+
+To solve an _integrated concept problem_, we must first identify the physical principles involved and identify the chapters in which they are found. Part (a) of this example considers _acceleration_ along a straight line. This is a topic of _kinematics_. Part (b) deals with _force_, a topic of _dynamics_ found in this chapter.
+
+The following solutions to each part of the example illustrate how the specific problem-solving strategies are applied. These involve identifying knowns and unknowns, checking to see if the answer is reasonable, and so forth.
+
+#### Solution for (a)
+
+We are given the initial and final velocities (zero and 8.00 m/s forward); thus, the change in velocity is Δv\=8.00 m/sΔv\=8.00 m/s. We are given the elapsed time, and so Δt\=2.50 sΔt\=2.50 s. The unknown is acceleration, which can be found from its definition:
+
+a\=ΔvΔt.a\=ΔvΔt.
+
+4.88
+
+Substituting the known values yields
+
+a \= 8.00 m/s 2 . 50 s \= 3 . 20 m/s 2 . a \= 8.00 m/s 2 . 50 s \= 3 . 20 m/s 2 .
+
+4.89
+
+#### Discussion for (a)
+
+This is an attainable acceleration for an athlete in good condition.
+
+#### Solution for (b)
+
+Here we are asked to find the average force the player exerts backward to achieve this forward acceleration. Neglecting air resistance, this would be equal in magnitude to the net external force on the player, since this force causes his acceleration. Since we now know the player’s acceleration and are given his mass, we can use Newton’s second law to find the force exerted. That is,
+
+Fnet\=ma.Fnet\=ma.
+
+4.90
+
+Substituting the known values of mm and aa gives
+
+Fnet \= (70.0 kg) (3.20 m/s2) \= 224 N. Fnet \= (70.0 kg) (3.20 m/s2) \= 224 N.
+
+4.91
+
+#### Discussion for (b)
+
+This is about 50 pounds, a reasonable average force.
+
+This worked example illustrates how to apply problem-solving strategies to situations that include topics from different chapters. The first step is to identify the physical principles involved in the problem. The second step is to solve for the unknown using familiar problem-solving strategies. These strategies are found throughout the text, and many worked examples show how to use them for single topics. You will find these techniques for integrated concept problems useful in applications of physics outside of a physics course, such as in your profession, in other science disciplines, and in everyday life. The following problems will build your skills in the broad application of physical principles.

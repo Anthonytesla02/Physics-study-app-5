@@ -1,0 +1,92 @@
+# 31.1 Nuclear Radioactivity
+
+[Original URL](https://openstax.org/books/college-physics-2e/pages/31-1-nuclear-radioactivity)
+
+## 31.1 Nuclear Radioactivity
+
+### Learning Objectives
+
+By the end of this section, you will be able to:
+
+*   Explain nuclear radiation.
+*   Explain the types of radiation—alpha emission, beta emission, and gamma emission.
+*   Explain the ionization of radiation in an atom.
+*   Define the range of radiation.
+
+The discovery and study of nuclear radioactivity quickly revealed evidence of revolutionary new physics. In addition, uses for nuclear radiation also emerged quickly—for example, people such as Ernest Rutherford used it to determine the size of the nucleus and devices were painted with radium-doped paint to make them glow in the dark (see [Figure 31.2](31-1-nuclear-radioactivity#import-auto-id3209830)). We therefore begin our study of nuclear physics with the discovery and basic features of nuclear radioactivity.
+
+![The image shows an aircraft panel with lots of dial indicators, some levers and two wheels.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/012586aa754abf9ef031a78fb0fbb305376abc8c)
+
+Figure 31.2 The dials of this World War II aircraft glow in the dark, because they are painted with radium-doped phosphorescent paint. It is a poignant reminder of the dual nature of radiation. Although radium paint dials are conveniently visible day and night, they emit radon, a radioactive gas that is hazardous and is not directly sensed. (credit: U.S. Air Force Photo)
+
+### Discovery of Nuclear Radioactivity
+
+In 1896, the French physicist Antoine Henri Becquerel (1852–1908) accidentally found that a uranium-rich mineral called pitchblende emits invisible, penetrating rays that can darken a photographic plate enclosed in an opaque envelope. The rays therefore carry energy; but amazingly, the pitchblende emits them continuously without any energy input. This is an apparent violation of the law of conservation of energy, one that we now understand is due to the conversion of a small amount of mass into energy, as related in Einstein’s famous equation E\=mc2E\=mc2. It was soon evident that Becquerel’s rays originate in the nuclei of the atoms and have other unique characteristics. The emission of these rays is called **nuclear radioactivity** or simply radioactivity. The rays themselves are called nuclear radiation. A nucleus that spontaneously destroys part of its mass to emit radiation is said to decay (a term also used to describe the emission of radiation by atoms in excited states). A substance or object that emits nuclear radiation is said to be radioactive.
+
+Two types of experimental evidence imply that Becquerel’s rays originate deep in the heart (or nucleus) of an atom. First, the radiation is found to be associated with certain elements, such as uranium. Radiation does not vary with chemical state—that is, uranium is radioactive whether it is in the form of an element or compound. In addition, radiation does not vary with temperature, pressure, or ionization state of the uranium atom. Since all of these factors affect electrons in an atom, the radiation cannot come from electron transitions, as atomic spectra do. The huge energy emitted during each event is the second piece of evidence that the radiation cannot be atomic. Nuclear radiation has energies of the order of 106eV106eV per event, which is much greater than the typical atomic energies (a few eVeV), such as that observed in spectra and chemical reactions, and more than ten times as high as the most energetic characteristic x rays. Becquerel did not vigorously pursue his discovery for very long. In 1898, Marie Curie (1867–1934), then a graduate student married to the already well-known French physicist Pierre Curie (1859–1906), began her doctoral study of Becquerel’s rays. She and her husband soon discovered two new radioactive elements, which she named _polonium_ (after her native land) and _radium_ (because it radiates). These two new elements filled holes in the periodic table and, further, displayed much higher levels of radioactivity per gram of material than uranium. Over a period of four years, working under poor conditions and spending their own funds, the Curies processed more than a ton of uranium ore to isolate a gram of radium salt. Radium became highly sought after, because it was about two million times as radioactive as uranium. Curie’s radium salt glowed visibly from the radiation that took its toll on them and other unaware researchers. Shortly after completing her Ph.D., both Curies and Becquerel shared the 1903 Nobel Prize in physics for their work on radioactivity. Pierre was killed in a horse cart accident in 1906, but Marie continued her study of radioactivity for nearly 30 more years. Awarded the 1911 Nobel Prize in chemistry for her discovery of two new elements, she remains the only person to win Nobel Prizes in physics and chemistry. Marie’s radioactive fingerprints on some pages of her notebooks can still expose film, and she suffered from radiation-induced lesions. She died of leukemia likely caused by radiation, but she was active in research almost until her death in 1934. The following year, her daughter and son-in-law, Irene and Frederic Joliot-Curie, were awarded the Nobel Prize in chemistry for their discovery of artificially induced radiation, adding to a remarkable family legacy.
+
+### Alpha, Beta, and Gamma
+
+Research begun by people such as New Zealander Ernest Rutherford soon after the discovery of nuclear radiation indicated that different types of rays are emitted. Eventually, three types were distinguished and named alphaαα, betaββ, and gammaγγ, because, like x-rays, their identities were initially unknown. [Figure 31.3](31-1-nuclear-radioactivity#import-auto-id2600407) shows what happens if the rays are passed through a magnetic field. The γγs are unaffected, while the αα s and ββ s are deflected in opposite directions, indicating the αα s are positive, the ββ s negative, and the γγ s uncharged. Rutherford used both magnetic and electric fields to show that αα s have a positive charge twice the magnitude of an electron, or +2∣qe∣+2∣qe∣. In the process, he found the αα s charge to mass ratio to be several thousand times smaller than the electron’s. Later on, Rutherford collected αα s from a radioactive source and passed an electric discharge through them, obtaining the spectrum of recently discovered helium gas. Among many important discoveries made by Rutherford and his collaborators was the proof that αα _radiation is the emission of a helium nucleus_. Rutherford won the Nobel Prize in chemistry in 1908 for his early work. He continued to make important contributions until his death in 1934.
+
+![The figure shows north and south poles of a magnet through which three rays labeled as alpha beta and gamma are passed. After passing through a magnetic field the alpha ray is slightly deflected toward the right. The beta ray is deflected toward the left and the gamma ray is not deflected.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/afe3bf4a701c6763772bd90fd2e96dbb116028ee)
+
+Figure 31.3 Alpha, beta, and gamma rays are passed through a magnetic field on the way to a phosphorescent screen. The αα s and ββ s bend in opposite directions, while the γγ s are unaffected, indicating a positive charge for αα s, negative for ββ s, and neutral for γγ s. Consistent results are obtained with electric fields. Collection of the radiation offers further confirmation from the direct measurement of excess charge.
+
+Other researchers had already proved that ββ s are negative and have the same mass and same charge-to-mass ratio as the recently discovered electron. By 1902, it was recognized that ββ _radiation is the emission of an electron_. Although ββ s are electrons, they do not exist in the nucleus before it decays and are not ejected atomic electrons—the electron is created in the nucleus at the instant of decay.
+
+Since γγ s remain unaffected by electric and magnetic fields, it is natural to think they might be photons. Evidence for this grew, but it was not until 1914 that this was proved by Rutherford and collaborators. By scattering γγ radiation from a crystal and observing interference, they demonstrated that γγ _radiation is the emission of a high-energy photon by a nucleus_. In fact, γγ radiation comes from the de-excitation of a nucleus, just as an x ray comes from the de-excitation of an atom. The names "γγ ray" and "x ray" identify the source of the radiation. At the same energy, γγ rays and x rays are otherwise identical.
+
+Type of Radiation
+
+Range
+
+αα\-Particles
+
+A sheet of paper, a few cm of air, fractions of a mm of tissue
+
+ββ\-Particles
+
+A thin aluminum plate, or tens of cm of tissue
+
+γγ Rays
+
+Several cm of lead or meters of concrete
+
+Table 31.1 Properties of Nuclear Radiation
+
+### Ionization and Range
+
+Two of the most important characteristics of αα, ββ, and γγ rays were recognized very early. All three types of nuclear radiation produce _ionization_ in materials, but they penetrate different distances in materials—that is, they have different _ranges_. Let us examine why they have these characteristics and what are some of the consequences.
+
+Like x rays, nuclear radiation in the form of αα s, ββ s, and γγ s has enough energy per event to ionize atoms and molecules in any material. The energy emitted in various nuclear decays ranges from a few keVkeV to more than 10 MeV10 MeV, while only a few eVeV are needed to produce ionization. The effects of x rays and nuclear radiation on biological tissues and other materials, such as solid state electronics, are directly related to the ionization they produce. All of them, for example, can damage electronics or kill cancer cells. In addition, methods for detecting x rays and nuclear radiation are based on ionization, directly or indirectly. All of them can ionize the air between the plates of a capacitor, for example, causing it to discharge. This is the basis of inexpensive personal radiation monitors, such as pictured in [Figure 31.4](31-1-nuclear-radioactivity#import-auto-id1900612). Apart from αα, ββ, and γγ, there are other forms of nuclear radiation as well, and these also produce ionization with similar effects. We define ionizing radiation as any form of radiation that produces ionization whether nuclear in origin or not, since the effects and detection of the radiation are related to ionization.
+
+![(a) A photo of a dosimeter in the palm of a hand. (b) A photo of a Roentgen scale from 0 to 200.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/d9789a04c189c8a42520bdbf748748bf012571fd)
+
+Figure 31.4 (a) Early electroscope-style dosimeters (literally, dose meters) such as the Civil Defense Bendix pocket dosimeter shown here came into use in the mid-1950s as personal radiation monitors that detect the amount of radiation. (b) The dosimeter is initially reset by charging it at high voltage using a charger. The person using this dosimeter would carry it in their pocket and occasionally point it toward a light and look through the lens on the end to see the fine line of the electroscope superimposed on a Roentgen scale. As radiation passes through the dosimeter (and the wearer!), it discharges the dosimeter and the indicator on the scale moves up. (credit: Gary B. Swift)
+
+The range of radiation is defined to be the distance it can travel through a material. Range is related to several factors, including the energy of the radiation, the material encountered, and the type of radiation (see [Figure 31.5](31-1-nuclear-radioactivity#import-auto-id3385282)). The higher the _energy_, the greater the range, all other factors being the same. This makes good sense, since radiation loses its energy in materials primarily by producing ionization in them, and each ionization of an atom or a molecule requires energy that is removed from the radiation. The amount of ionization is, thus, directly proportional to the energy of the particle of radiation, as is its range.
+
+![Three cases of range of radiation are shown. The first case shows that higher energy has greater range than lower energy. The second case shows that, for same energy material having high electron density will have lower range. The third case shows that among alpha beta and gamma rays for the same energy alphas have the smallest range betas have a greater range and gammas penetrate the farthest.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/df83af4be50d8234e938a63a98aca6f0d14203b6)
+
+Figure 31.5 The penetration or range of radiation depends on its energy, the material it encounters, and the type of radiation. (a) Greater energy means greater range. (b) Radiation has a smaller range in materials with high electron density. (c) Alphas have the smallest range, betas have a greater range, and gammas penetrate the farthest.
+
+Radiation can be absorbed or shielded by materials, such as the lead aprons dentists drape on us when taking x rays. Lead is a particularly effective shield compared with other materials, such as plastic or air. How does the range of radiation depend on _material_? Ionizing radiation interacts best with charged particles in a material. Since electrons have small masses, they most readily absorb the energy of the radiation in collisions. The greater the density of a material and, in particular, the greater the density of electrons within a material, the smaller the range of radiation.
+
+Conservation of energy and momentum often results in energy transfer to a less massive object in a collision. This was discussed in detail in [Work, Energy, and Energy Resources](7-1-work-the-scientific-definition), for example.
+
+Different _types_ of radiation have different ranges when compared at the same energy and in the same material. Alphas have the shortest range, betas penetrate farther, and gammas have the greatest range. This is directly related to charge and speed of the particle or type of radiation. At a given energy, each αα, ββ, or γ γ will produce the same number of ionizations in a material (each ionization requires a certain amount of energy on average). The more readily the particle produces ionization, the more quickly it will lose its energy. The effect of _charge_ is as follows: The αα has a charge of +2qe+2qe , the ββ has a charge of −qe−qe , and the γγ is uncharged. The electromagnetic force exerted by the αα is thus twice as strong as that exerted by the ββ and it is more likely to produce ionization. Although chargeless, the γγ does interact weakly because it is an electromagnetic wave, but it is less likely to produce ionization in any encounter. More quantitatively, the change in momentum ΔpΔp given to a particle in the material is Δp\=FΔtΔp\=FΔt, where FF is the force the αα, ββ, or γ γ exerts over a time ΔtΔt. The smaller the charge, the smaller is FF and the smaller is the momentum (and energy) lost. Since the speed of alphas is about 5% to 10% of the speed of light, classical (non-relativistic) formulas apply.
+
+The _speed_ at which they travel is the other major factor affecting the range of αα s, ββ s, and γγ s. The faster they move, the less time they spend in the vicinity of an atom or a molecule, and the less likely they are to interact. Since αα s and ββ s are particles with mass (helium nuclei and electrons, respectively), their energy is kinetic, given classically by 12mv212mv2. The mass of the ββ particle is thousands of times less than that of the αα s, so that ββ s must travel much faster than αα s to have the same energy. Since ββ s move faster (most at relativistic speeds), they have less time to interact than αα s. Gamma rays are photons, which must travel at the speed of light. They are even less likely to interact than a ββ, since they spend even less time near a given atom (and they have no charge). The range of γγ s is thus greater than the range of ββ s.
+
+Alpha radiation from radioactive sources has a range much less than a millimeter of biological tissues, usually not enough to even penetrate the dead layers of our skin. On the other hand, the same αα radiation can penetrate a few centimeters of air, so mere distance from a source prevents αα radiation from reaching us. This makes αα radiation relatively safe for our body compared to ββ and γγ radiation. Typical ββ radiation can penetrate a few millimeters of tissue or about a meter of air. Beta radiation is thus hazardous even when not ingested. The range of ββ s in lead is about a millimeter, and so it is easy to store ββ sources in lead radiation-proof containers. Gamma rays have a much greater range than either ααs or ββs. In fact, if a given thickness of material, like a lead brick, absorbs 90% of the γγs, then a second lead brick will only absorb 90% of what got through the first. Thus, γγs do not have a well-defined range; we can only cut down the amount that gets through. Typically, γγs can penetrate many meters of air, go right through our bodies, and are effectively shielded (that is, reduced in intensity to acceptable levels) by many centimeters of lead. One benefit of γγs is that they can be used as radioactive tracers (see [Figure 31.6](31-1-nuclear-radioactivity#import-auto-id2589483)).
+
+![This figure shows four images of a skeleton of a human. Different parts of the body show bright spots wherever the bone cells are most active, indicating bone cancer.](/apps/image-cdn/v1/f=webp/apps/archive/20260105.231123/resources/6516806120c70d240e7514a19e29baaa6f9a2e55)
+
+Figure 31.6 This image of the concentration of a radioactive tracer in a patient’s body reveals where the most active bone cells are, an indication of bone cancer. A short-lived radioactive substance that locates itself selectively is given to the patient, and the radiation is measured with an external detector. The emitted γγ radiation has a sufficient range to leave the body—the range of αα s and ββ s is too small for them to be observed outside the patient. (credit: Kieran Maher, Wikimedia Commons)
+
+#### Beta Decay
+
+Build an atom out of protons, neutrons, and electrons, and see how the element, charge, and mass change. Then play a game to test your ideas!
+
+[Click to view content](https://openstax.org/l/21betadecayvid).
